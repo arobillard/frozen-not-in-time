@@ -10,7 +10,7 @@ html {
 }
 
 .cone-wrap {
-  min-height: 500px;
+  min-height: 490px;
 }
 
 .banner-content {
@@ -66,7 +66,7 @@ p {
 
 .cone {
   bottom: 10px;
-  left: 50px;
+  left: 60px;
   z-index: 2;
   transform: translateY(-100rem);
   animation: cone 1s linear forwards;
@@ -74,7 +74,7 @@ p {
 
 .mint {
   bottom: 115px;
-  left: 50px;
+  left: 60px;
   z-index: 1;
   transform: translateY(-100rem);
   animation: cone 1s .5s linear forwards;
@@ -82,7 +82,7 @@ p {
 
 .choco {
   bottom: 195px;
-  left: 55px;
+  left: 65px;
   z-index: 3;
   transform: translateY(-100rem);
   animation: cone 1s 1s linear forwards;
@@ -90,7 +90,7 @@ p {
 
 .vanilla {
   bottom: 280px;
-  left: 50px;
+  left: 60px;
   z-index: 4;
   transform: translateY(-100rem);
   animation: cone 1s 1.5s linear forwards;
@@ -98,7 +98,7 @@ p {
 
 .cherry {
   bottom: 360px;
-  left: 50px;
+  left: 60px;
   z-index: 5;
   transform: translateY(-100rem);
   animation: cone 1s 2s linear forwards;
